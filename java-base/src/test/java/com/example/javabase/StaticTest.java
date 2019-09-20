@@ -29,7 +29,6 @@ public class StaticTest {
         int a = x+ y -2/2 + z;
         int b = x + (y - 2)/(2 + z);
 //        System.out.println("a = "+ a + "b = "+ b);
-        
 
 
 
